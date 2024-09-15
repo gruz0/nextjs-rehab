@@ -23,7 +23,7 @@ No matter if it's a web2 or web3 project, these tools are essential for maintain
 
 These tools aren't specific to Next.js but are crucial for overall workflow and project management.
 
-- EditorConfig: Maintains consistent coding styles.
+- [EditorConfig](./EditorConfig/README.md): Maintains consistent coding styles.
 - Makefile: Simplifies common tasks.
 - Docker: For consistent development environments.
 - Codespell: Catches typos in your code.
