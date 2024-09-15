@@ -19,6 +19,8 @@ Just install the [editorconfig-vim](https://github.com/editorconfig/editorconfig
 
 ## Example config
 
+Place your configuration file in your project’s root directory and name it `.editorconfig`. That's all you need to start using this amazing tool.
+
 Here is [a few examples](https://github.com/editorconfig/editorconfig/wiki/Projects-Using-EditorConfig) of popular products that use EditorConfig.
 
 This is mine:
